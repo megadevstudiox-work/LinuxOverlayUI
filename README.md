@@ -1,3 +1,6 @@
+https://studio.youtube.com/video/84DvKHXFZiI/edit
+https://megadevstudiox.netlify.app/
+https://www.mediafire.com/file/rkoykybujljwm6b/LinuxOverLayUI.AppImagex64.zip/file
 # 🚀 LinuxOverlay UI
 
 **LinuxOverlay UI** is a lightweight, open-source performance monitoring interface designed for Linux gamers. It provides an intuitive GUI to control and display system metrics (CPU, GPU, RAM, FPS, temperatures) as a standalone alternative to terminal-based MangoHud setups.
